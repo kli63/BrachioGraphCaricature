@@ -850,7 +850,7 @@ clockwise and anti-clockwise. Press "0" to exit.
         print("------------------------------------------")
         print(f"resolution: {self.resolution} cm")
         print("------------------------------------------")
-        print(f"angular step: {self.angular_step}˚")
+        print(f"angular step: {self.angular_step} degrees")
         print("------------------------------------------")
 
     @property
